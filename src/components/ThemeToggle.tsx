@@ -1,7 +1,7 @@
 "use client";
 
 import { useTheme } from "next-themes";
-import { Monitor, Moon, Sun, Droplets } from "lucide-react";
+import { Moon, Sun, Droplets } from "lucide-react";
 import { useEffect, useState } from "react";
 
 export function ThemeToggle() {

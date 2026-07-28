@@ -1,7 +1,7 @@
 "use client";
 
 import { Project } from "@/data/projects";
-import { X, ArrowRight, MapPin, Calendar, ShieldCheck, CheckCircle2, Cpu } from "lucide-react";
+import { X, ArrowRight, MapPin, Calendar, CheckCircle2, Cpu } from "lucide-react";
 import Link from "next/link";
 
 interface ProjectModalProps {
